@@ -1,0 +1,141 @@
+body{
+    background-image: url(https://i.pinimg.com/236x/a8/0c/b0/a80cb0e573012d6c93b3395fd4a1b5a2.jpg);
+    background-color: rgb(75, 175, 133);
+    background-size: repeat;
+}
+
+
+.ImgPrincipal{
+    border-radius: 70%;
+    width: 200px;
+    box-shadow: 0 0 10px rgb(42, 90, 38);
+    background-color: #1529;
+    vertical-align: middle;
+}
+
+.Titulo{
+    color: #113b1f;
+    font-family: Papyrus,'Lucida Handwriting', Courier;
+    font-size: 40px;
+    font-weight: 900;
+    vertical-align: top;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(20, 240, 49);
+    margin-left: 20px;
+}
+
+.Menu{
+    background-color: hsl(134, 26%, 22%);
+    width: 20vh;
+    height: 20vh;
+    padding: 0;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.textoprincipal{
+    background-color: rgba(39, 136, 64, 0.867); width: 60vw;
+    height: auto;
+    padding: 10px; 
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgb(10, 44, 3);
+}
+
+h2{
+    color: #113b1f;
+    font-family: Papyrus, Courier;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: left;
+    text-shadow: 3px 3px 3px rgb(20, 240, 49);
+    margin: 10px;
+}
+
+
+.textoimportante{
+    background-color: hsl(134, 26%, 22%);
+    width: 70vh;
+    height: 30vh;
+    display: block;
+    display: inline;
+    padding: 0;
+    margin: 10px;
+    justify-content: auto;
+    float: right;
+}
+.subquien{
+    text-align: right;
+    margin-left: 15px;
+}
+
+.subqueson{
+    text-align: right;
+    margin-left: 15px;
+}
+p{
+    color: rgb(128, 255, 139);
+    background-color: #113b1faa;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+    margin: 10px;
+    margin-left: auto;
+    padding : 20px;
+    border: 3px ridge hsl(140, 47%, 27%); 
+    border-radius: 40px 10px 10px 40px;
+    box-shadow: 0 0 5px rgb(42, 90, 38);
+    border-style: none;
+    width: 50vw;
+    justify-content: right;
+}
+
+a{
+    width: 30vw;
+    background-color: #113b1fa7;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    color: rgb(128, 255, 139);
+    text-decoration-color: rgb(18, 139, 38);
+    text-shadow: 5px 5px 5px rgb(42, 90, 38);
+}
+
+li{
+    list-style-type: square;
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    width: 100px;
+    border-radius: 80px;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.TENGOADIOS{
+    width: 30em;
+    border-radius: 80px;
+    box-shadow: 5px 5px 2px rgb(0, 0, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    text-align: center;
+}
+
+input{
+    color: aqua;
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(146, 155, 63);
+    background-color: hsl(135, 70%, 28%);
+    padding: 5px;
+}
